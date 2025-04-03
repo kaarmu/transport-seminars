@@ -14,11 +14,6 @@ const Footer = () => {
           </div>
           <div className="text-center md:text-right">
             <p className="text-sm text-gray-600">Contact: <a href={`mailto:${config.contactEmail}`} className="text-[#2CA6A4] hover:underline">{config.contactEmail}</a></p>
-            <p className="text-sm text-gray-600 mt-1">
-              <a href={config.subscribeMailing} className="text-[#2CA6A4] hover:underline">
-                Subscribe to mailing list
-              </a>
-            </p>
             <p className="text-xs text-gray-500 mt-2">
               &copy; {new Date().getFullYear()} {config.department}
             </p>
