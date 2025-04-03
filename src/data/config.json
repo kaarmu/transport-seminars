@@ -1,11 +1,10 @@
 
 {
-  "seriesTitle": "Transport Talks",
-  "department": "Department of Transportation Engineering",
-  "institution": "University of Mobility Studies",
-  "seriesDescription": "A weekly seminar series featuring leading researchers and practitioners in transportation engineering, planning, and policy.",
+  "seriesTitle": "Transport Seminars",
+  "department": "Division of Decision and Control Systems",
+  "institution": "KTH Royal Institute of Technology",
+  "seriesDescription": "A bi-weekly seminar series featuring transportation engineering, planning, and control.",
   "regularSchedule": "Thursdays, 2:00 PM - 3:30 PM",
   "location": "Transport Hall 105",
-  "contactEmail": "transport-talks@example.edu",
-  "subscribeMailing": "https://example.edu/transport-talks/subscribe"
+  "contactEmail": "avdr@kth.se"
 }

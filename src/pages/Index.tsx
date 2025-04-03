@@ -24,8 +24,7 @@ const Index = () => {
             {config.seriesDescription}
           </p>
           <div className="mt-4 text-gray-600">
-            <p>Regular schedule: {config.regularSchedule}</p>
-            <p>Location: {config.location}</p>
+            <p>{config.regularSchedule}</p>
           </div>
         </div>
 

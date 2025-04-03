@@ -10,12 +10,6 @@ const Navbar = () => {
     <nav className="bg-[#0A2342] text-white shadow-md">
       <div className="container mx-auto px-4 py-3">
         <div className="flex justify-between items-center">
-          <div>
-            <Link to="/" className="text-xl font-bold">{config.seriesTitle}</Link>
-            <span className="text-sm ml-2 text-gray-300 hidden md:inline-block">
-              {config.department}
-            </span>
-          </div>
           <div className="flex space-x-6">
             <Link 
               to="/" 
