@@ -1,0 +1,74 @@
+
+{
+  "currentSeries": "Spring 2025",
+  "upcomingSeminars": [
+    {
+      "id": 1,
+      "title": "Urban Mobility Patterns Post-Pandemic",
+      "speaker": "Dr. Sarah Chen",
+      "affiliation": "University of Transportation Studies",
+      "date": "April 10, 2025",
+      "time": "2:00 PM - 3:30 PM",
+      "location": "Transport Hall 105",
+      "abstract": "This seminar examines the lasting changes in urban mobility patterns following the global pandemic, with particular focus on public transit recovery and micromobility adoption rates.",
+      "isUpcoming": true
+    },
+    {
+      "id": 2,
+      "title": "Autonomous Vehicle Integration in Mixed Traffic",
+      "speaker": "Prof. Michael Roberts",
+      "affiliation": "Technical University of Traffic Systems",
+      "date": "April 17, 2025",
+      "time": "2:00 PM - 3:30 PM",
+      "location": "Transport Hall 105",
+      "abstract": "An analysis of the challenges and opportunities presented by autonomous vehicles operating in mixed traffic environments with human drivers.",
+      "isUpcoming": true
+    },
+    {
+      "id": 3,
+      "title": "Sustainable Freight Logistics Networks",
+      "speaker": "Dr. Elena Martinez",
+      "affiliation": "Institute for Green Transportation",
+      "date": "April 24, 2025",
+      "time": "2:00 PM - 3:30 PM",
+      "location": "Transport Hall 105",
+      "abstract": "This presentation will explore optimization strategies for freight logistics networks to reduce emissions while maintaining economic viability.",
+      "isUpcoming": true
+    }
+  ],
+  "pastSeminars": [
+    {
+      "id": 4,
+      "title": "Equity Considerations in Transit Planning",
+      "speaker": "Dr. James Wilson",
+      "affiliation": "Urban Transport Alliance",
+      "date": "March 27, 2025",
+      "time": "2:00 PM - 3:30 PM",
+      "location": "Transport Hall 105",
+      "abstract": "A critical examination of equity factors in transit planning with case studies from major metropolitan areas.",
+      "isUpcoming": false
+    },
+    {
+      "id": 5,
+      "title": "Machine Learning Applications in Traffic Flow Prediction",
+      "speaker": "Prof. Lisa Chang",
+      "affiliation": "Data Science Institute",
+      "date": "March 20, 2025",
+      "time": "2:00 PM - 3:30 PM",
+      "location": "Transport Hall 105",
+      "abstract": "This seminar presents recent advances in applying machine learning techniques to predict and optimize traffic flow in urban environments.",
+      "isUpcoming": false
+    },
+    {
+      "id": 6,
+      "title": "Transportation Infrastructure Resilience to Climate Change",
+      "speaker": "Dr. Carlos Mendez",
+      "affiliation": "Climate Adaptation Research Center",
+      "date": "March 13, 2025",
+      "time": "2:00 PM - 3:30 PM",
+      "location": "Transport Hall 105",
+      "abstract": "An overview of strategies to enhance transportation infrastructure resilience against increasing climate-related disruptions.",
+      "isUpcoming": false
+    }
+  ]
+}
